@@ -39,15 +39,6 @@ body {
 	color: #000000;
 }
 
-.logo-web {
-	font-family: "Raleway";
-	font-style: normal;
-	font-weight: 700;
-	font-size: 26px;
-	line-height: 1.19;
-	letter-spacing: 0.03em;
-	color: var(--accent-color);
-}
 .logo-foter {
 	font-family: "Raleway";
 	font-style: normal;
@@ -71,7 +62,7 @@ body {
 	color: var(--accent-color);
 }
 .current {
-  color: var(--accent-color);
+	color: var(--accent-color);
 }
 
 .header-tel {
@@ -98,7 +89,8 @@ color: var(--first-text-color);
 	color: var(--accent-color);
 }
 
- /*<!--hero-->*/
+	/*<!--hero-->*/
+
 .hero {
 	background-color: var(--first-background-color);
 }
@@ -159,7 +151,7 @@ color: var(--first-title-color);
  .team{
 	background-color: var(--second-backround-color);
  }
- .team-title {
+.team-title {
 	font-weight: 700;
 font-size: 36px;
 line-height: 42px;
